@@ -1,1 +1,11 @@
 apuntes
+
+Inicializa un proyecto de Node.js: Esto generará un archivo básico package.json. En tu consola, estando en la carpeta del ejercicio.Esto crea un archivo package.json con valores predeterminados.
+
+npm init -y
+
+
+Instala sass como dependencia de desarrollo: Usa el siguiente comando para agregar sass a las devDependencies.Esto actualizará tu archivo package.json para incluir "sass" en la sección devDependencies.
+
+
+npm install sass --save-dev
