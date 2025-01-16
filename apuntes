@@ -9,3 +9,7 @@ Instala sass como dependencia de desarrollo: Usa el siguiente comando para agreg
 
 
 npm install sass --save-dev
+
+
+
+sass --watch ./scss/main.scss ./css/main.css para la compilacion
